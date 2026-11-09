@@ -11,8 +11,8 @@ Le cours compte **8 séances** pour le groupe Min2, du **mercredi 28 octobre 202
 | Étape | Date |
 |---|---|
 | Première séance | Mercredi 28 octobre 2026 |
-| Dépôt de la Pull Request finale | **Date à fixer** *(emplacement réservé : JJ/MM/AAAA à HH:MM)* |
-| Soutenance et démonstration | **Date à fixer** *(emplacement réservé : lors de la dernière séance, 11 ou 12 janvier 2027 — salle et horaire à préciser)* |
+| Dépôt de la Pull Request finale | 11 janvienr 2027 |
+| Soutenance et démonstration | 12 janvier 2027 |
 
 ## Démarrage rapide
 
